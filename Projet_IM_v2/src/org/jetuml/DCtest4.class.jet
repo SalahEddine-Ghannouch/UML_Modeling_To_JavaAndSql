@@ -1,0 +1,1 @@
+{"diagram":"ClassDiagram","nodes":[{"methods":"eat(int a, int b):String","name":"ANA","x":230,"y":130,"attributes":"-code:int\n+name:String","id":0,"type":"ClassNode"}],"edges":[],"version":"3.5"}

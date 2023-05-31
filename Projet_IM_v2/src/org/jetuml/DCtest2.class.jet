@@ -1,0 +1,1 @@
+{"diagram":"ClassDiagram","nodes":[{"methods":"+eat():void","name":"salah","x":130,"y":110,"attributes":"+age:int\n+name:String","id":1,"type":"ClassNode"},{"methods":"","name":"imad","x":970,"y":140,"attributes":"+age:int\n+name:String","id":0,"type":"ClassNode"}],"edges":[],"version":"3.5"}

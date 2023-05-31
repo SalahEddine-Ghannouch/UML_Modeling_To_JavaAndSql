@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrammeClasse>
+  <classes>
+    <classe name="Etudiant" visibility="public">
+      <attributs>
+        <attribut>
+          <name type="String" visibility="private">nom</name>
+        </attribut>
+        <attribut>
+          <name type="int" visibility="private">age</name>
+        </attribut>
+      </attributs>
+      <methodes>
+        <methode>
+          <name typeR="void" visibility="private">learn</name>
+          <parametres />
+        </methode>
+      </methodes>
+    </classe>
+    <classe name="Professeur" visibility="public">
+      <attributs>
+        <attribut>
+          <name type="String" visibility="private">nom</name>
+        </attribut>
+        <attribut>
+          <name type="String" visibility="private">codeP</name>
+        </attribut>
+      </attributs>
+      <methodes>
+        <methode>
+          <name typeR="void" visibility="private">tech</name>
+          <parametres />
+        </methode>
+      </methodes>
+    </classe>
+  </classes>
+  <associations>
+    <association type="Generalization">
+      <name>khawi</name>
+      <classD multiplicity="khawi">Etudiant</classD>
+      <classA multiplicity="khawi">Professeur</classA>
+    </association>
+  </associations>
+</diagrammeClasse>

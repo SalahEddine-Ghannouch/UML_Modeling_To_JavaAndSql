@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrammeClasse>
+  <classes>
+    <classe name="ANA" visibility="public">
+      <attributs>
+        <attribut>
+          <name type="int" visibility="private">code</name>
+        </attribut>
+        <attribut>
+          <name type="String" visibility="public">name</name>
+        </attribut>
+      </attributs>
+      <methodes>
+        <methode>
+          <name typeR="String" visibility="private">eat</name>
+          <parametres>
+            <parametre>
+              <name type="int">a</name>
+              <name type="int">b</name>
+            </parametre>
+          </parametres>
+        </methode>
+      </methodes>
+    </classe>
+  </classes>
+  <associations />
+</diagrammeClasse>

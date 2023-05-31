@@ -1,0 +1,24 @@
+
+CREATE TABLE Professeur(
+ID NUMBER PRIMARY KEY
+);
+
+
+ALTER TABLE Professeur
+	ADD (
+nom VARCHAR,
+codeP VARCHAR
+);
+
+CREATE TABLE Etudiant(
+ID NUMBER PRIMARY KEY,
+id_Professeur NUMBER,
+FOREIGN KEY (id_Professeur) REFRENCES Professeur(ID) ON DELETE SET NULL
+);
+
+
+ALTER TABLE Etudiant
+	ADD (
+nom VARCHAR,
+age NUMBER
+);

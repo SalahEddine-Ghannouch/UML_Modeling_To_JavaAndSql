@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagrammeClasse>
+  <classes>
+    <classe name="salah" visibility="public">
+      <attributs>
+        <attribut>
+          <name type="int" visibility="public">age</name>
+        </attribut>
+        <attribut>
+          <name type="String" visibility="public">name</name>
+        </attribut>
+      </attributs>
+      <methodes>
+        <methode>
+          <name typeR="void" visibility="public">eat</name>
+          <parametres />
+        </methode>
+      </methodes>
+    </classe>
+  </classes>
+  <associations />
+</diagrammeClasse>
