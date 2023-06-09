@@ -61,4 +61,4 @@ We appreciate your interest in the UML Class Diagram Modeling and Code Generatio
 ## Acknowledgements
 
 - We would like to express our gratitude to the following contributor :
-- My Colleague Salah-Eddine Ghannouche : [portfolio] https://github.com/IA24mad
+- My Colleague Salah-Eddine Ghannouche : [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)] https://github.com/IA24mad
