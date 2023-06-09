@@ -54,11 +54,11 @@ Contributions to enhance the UML Class Diagram Tool are welcome. To contribute, 
 If you have any questions, suggestions, or feedback, please feel free to reach out to us:
 
 - Email: salahghannouch@gmail.com
-- GitHub Issues: https://github.com/IA24mad/UmlToJavaAndSql
+- GitHub Issues: [https://github.com/SalahEddine-Ghannouch/UML_Modeling_To_JavaAndSql](https://github.com/SalahEddine-Ghannouch/UML_Modeling_To_JavaAndSql)
 
 We appreciate your interest in the UML Class Diagram Modeling and Code Generation Tool!
 
 ## Acknowledgements
 
 - We would like to express our gratitude to the following contributor :
-- My Colleague Salah-Eddine Ghannouche : [![portfolio] https://github.com/SalahEddine-Ghannouch
+- My Colleague Salah-Eddine Ghannouche : [portfolio] https://github.com/IA24mad
