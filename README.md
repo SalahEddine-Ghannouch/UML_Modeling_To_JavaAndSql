@@ -1,6 +1,6 @@
 # UML Class Diagram Modeling and Code Generation Tool
 
-![UML Class Diagram Tool Logo](https://github.com/IA24mad/UmlToJavaAndSql/assets/79339578/2945d02d-86e4-4dc4-8d1b-784bf58a6115)
+![UML Class Diagram Tool Logo](https://github.com/SalahEddine-Ghannouch/UML_Modeling_To_JavaAndSql/assets/79339578/de5555da-2882-49db-84f9-542d3ff53ec7)
 
 ## Description
 
