@@ -1,7 +1,5 @@
 # UML Class Diagram Modeling and Code Generation Tool
 
-![UML Class Diagram Tool Logo](https://github.com/SalahEddine-Ghannouch/UML_Modeling_To_JavaAndSql/assets/79339578/de5555da-2882-49db-84f9-542d3ff53ec7)
-
 ## Description
 
 This project proposes the design and implementation of a graphical and textual modeling tool for UML class diagrams, along with the automatic generation of Java, C++, and SQL code based on the created diagrams. The main objective is to provide a user-friendly and efficient environment for designing object-oriented software, utilizing the concepts and relationships defined by the UML modeling language. The tool incorporates a specific language (DSL) object defined under Xtext and JDOM for modeling and code generation.
@@ -61,4 +59,4 @@ We appreciate your interest in the UML Class Diagram Modeling and Code Generatio
 ## Acknowledgements
 
 - We would like to express our gratitude to the following contributor :
-- My Colleague Salah-Eddine Ghannouche : [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)] https://github.com/IA24mad
+- My Colleague Imad Abdellaoui : [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)] https://github.com/IA24mad
